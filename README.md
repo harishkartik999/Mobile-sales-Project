@@ -10,7 +10,7 @@ This dashboard tracks key sales metrics for mobile phone retail data, helping id
 Power BI Desktop
 Power Query (data cleaning & transformation)
 DAX (custom measures for KPIs)
-##Key Metrics Tracked
+## Key Metrics Tracked
 Total Sales & Total Quantity Sold
 Number of Transactions
 Average Sale Value
